@@ -9,7 +9,7 @@
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 Create a virtual environment and install dependencies:
 
@@ -24,7 +24,7 @@ Main libraries:
 ---
 
 
-## 🧠 Concepts Used
+## Concepts Used
 
 - PINNs (Physics-Informed Neural Networks)
 - Automatic Differentiation
